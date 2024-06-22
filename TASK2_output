@@ -1,0 +1,15 @@
+Enter the number of subjects:
+5
+Enter marks obtained in subject 1:
+89
+Enter marks obtained in subject 2:
+91
+Enter marks obtained in subject 3:
+95
+Enter marks obtained in subject 4:
+85
+Enter marks obtained in subject 5:
+98
+Total Marks: 458
+Average Percentage: 91.6%
+Grade: A+
