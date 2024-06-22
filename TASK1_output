@@ -1,0 +1,32 @@
+I have generated a number between 1 and 100. Try to guess it!
+You have 10 attempts left. Enter your guess:
+56
+Your guess is too high.
+You have 9 attempts left. Enter your guess:
+45
+Your guess is too high.
+You have 8 attempts left. Enter your guess:
+34
+Your guess is too high.
+You have 7 attempts left. Enter your guess:
+23
+Your guess is too high.
+You have 6 attempts left. Enter your guess:
+12
+Your guess is too low.
+You have 5 attempts left. Enter your guess:
+15
+Your guess is too low.
+You have 4 attempts left. Enter your guess:
+20
+Your guess is too high.
+You have 3 attempts left. Enter your guess:
+18
+Your guess is too low.
+You have 2 attempts left. Enter your guess:
+19
+Congratulations! You've guessed the correct number.
+Your current score is: 1
+Do you want to play again? (yes/no)
+no
+Thanks for playing! Your final score is: 1
