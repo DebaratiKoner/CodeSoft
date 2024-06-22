@@ -1,2 +1,2 @@
 # CodeSoft
-Java programming-internship
+Java programming
