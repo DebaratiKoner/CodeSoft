@@ -1,0 +1,37 @@
+Welcome to the ATM
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 1
+Your current balance is: $1000.0
+Welcome to the ATM
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 2
+Enter the amount to deposit: $8000
+Deposit successful! Your new balance is: $9000.0
+Welcome to the ATM
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 3
+Enter the amount to withdraw: $500
+Withdrawal successful! Your new balance is: $8500.0
+Welcome to the ATM
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 1
+Your current balance is: $8500.0
+Welcome to the ATM
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 4
+Thank you for using the ATM. Goodbye!
